@@ -1,0 +1,2 @@
+# Problem Solving using Javascript
+ Welcome to the "Problem Solving using Javascript" repository - your one-stop-shop for mastering problem-solving skills using JavaScript and landing your dream job at a product-based company! Whether you're a student, fresher, or professional, this repository is designed to provide you with a comprehensive understanding of data structures and algorithms using JavaScript. 
