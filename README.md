@@ -4,22 +4,24 @@
 
  ## Contrubution Guidelines.
    
-   * This Repo is based on Data Structures and Algorithms. So Contribution could be around
-        - Updating the Documents(index.md file for a given problem)
+   * This Repo is based around Data Structures and Algorithms using JS. So any contribution can be as follows:
+
+        - Updating the Documentation(index.md file for a given problem)
         - Raising any code bug.
         - Fixing Bugs.
         - Modifying the Code.
         - Adding a new solution for a given problem.
-        - On top of these anyone solve additional Challenges mentioned for selective problems.(Special Challneges are mentioned in the index.md file for a given problem)
-    * Since, this repo is dedicated for javscript developers thus, any modification will only be accepted if its around javascript.
+        - On top of these anyone solve additional Challenges mentioned for selective problems.(Special Challanges are mentioned in the index.md file for a given problem)
+         
+   * Since, this repo is dedicated for javscript developers thus, any modification will only be accepted if its around javascript.
 
 ## Steps to start the application
 
    1. Clone the repository - [Problem Solving using Javascript](https://github.com/sakigo9/Problem-Solving-using-Javascript)
-   2. That's it! Anyone can start contributing.(Follow the guidelines mentioned above.)
+   2. That's it! Anyone can start contributing.(`Follow the guidelines mentioned above.`)
 
-## Tech Stack Used : 
-   * [JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 💻 Tech Stack Used:
+   * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 ## 🌐 Follow me for more on Social Media:
