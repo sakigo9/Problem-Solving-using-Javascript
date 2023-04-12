@@ -6,7 +6,7 @@
 
 
 
-## Special Challange for Contributors :
+## Special Challange for Contributors : [Status : Pending]
 
     - There is famous algorithm for this question. The Chanllenge is to add a solution to this problem using that famous algorithm.
     - Hint😉 : Dutch National Flag Algorithm

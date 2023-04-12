@@ -28,6 +28,11 @@
   * Space Complexity : O(1)
 
 
+ ## Special Challange for Contributors : [Status : Pending]
+
+    - Print all the elements that contributues to the maximum subarray. In case multiple answers exists then return just one of them. 
+
+
 
 
 

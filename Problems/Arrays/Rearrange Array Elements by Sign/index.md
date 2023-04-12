@@ -40,7 +40,7 @@
     * Space Complexity : O(N)
 
 
-## Special Challange for Contributors :
+## Special Challange for Contributors : [Status : Pending]
 
     - Let's suppose we have an array with positive and negative numbers. This time the frequencies of positive and negative numbers are equal. Your task is to follow the same rearrangement of numbers but this time add additional elements at the end of the result array.
 

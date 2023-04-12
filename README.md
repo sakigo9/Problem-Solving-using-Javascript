@@ -11,7 +11,7 @@
         - Fixing Bugs.
         - Modifying the Code.
         - Adding a new solution for a given problem.
-        - On top of these anyone solve additional Challenges mentioned for selective problems.(Special Challanges are mentioned in the index.md file for a given problem)
+        - On top of these anyone solve additional Challenges mentioned for selective problems.(Special Challanges are mentioned in the index.md file for a given problem). Do look at the status tags attached with these special challenge questions. If the status is pending then add your solution by adding a new file in the folder.
          
    * Since, this repo is dedicated for javscript developers thus, any modification will only be accepted if its around javascript.
 
