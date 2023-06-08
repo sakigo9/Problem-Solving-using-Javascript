@@ -3,7 +3,7 @@
 # Problem : https://leetcode.com/problems/counter/description/
 
 
-### Concepts Used :
+### JS Concepts Used :
   
   * Closures
   * Higher Order Functions
