@@ -5,7 +5,7 @@ function memoize(fn) {
         if(key in cache){
             return cache[key];
         }
-        const result = fn.apply(this, args);
+        const result = fn.apply(this, args); // fn(...args) also works well
         cache[key]=result
         return result
     }
