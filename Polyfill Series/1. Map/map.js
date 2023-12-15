@@ -1,3 +1,10 @@
+/**
+ * Info :
+ * 1. Higher order function
+ * 2. Returns a new array
+ * 3. Used on an array
+ */
+
 const arr = [1, 2, 3, 4];
 Array.prototype.customMap = function (callback) {
   const res = [];
